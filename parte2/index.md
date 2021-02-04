@@ -1,1 +1,7 @@
-https://github.com/Ragno05/ragnofromitaly.github.io/blob/main/Parte2/index.html
+<!DOCTYPE html>
+<html>
+    <body bgcolor="#FFFFFF" background=”sfondo00006.webp”>
+    <body>
+        <h1>qualcosa</h1>
+    </body>
+</html>
